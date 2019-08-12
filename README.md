@@ -3,3 +3,4 @@
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/armelsoubeiga/CATclustering/edit/master/README.md)
 
 # CATclustering : Care trajectories analysis by clustering, partitioning and sequential analysis
+
