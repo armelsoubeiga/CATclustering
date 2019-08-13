@@ -8,6 +8,10 @@ CATclutering is a package that allows you to perform an analysis of the care pat
 
 There are several packages that implement unsupervised claassification but this CATclustering takes into account K-mean and CAH. For the sequential analysis the solution provided by TraMineR which is the most complete and powerful solution to date is taken into account.
 
-The CATclustering package also takes into account longitudinal data and data by describing acts of care by data line.
+The CATclustering package also takes into account longitudinal data and data by describing acts of care by row.
 
-![longitudinal data](img/table2.PNG)
+**longitudinal data**
+![](img/table2.PNG)
+
+**acts of care by row**
+![](img/table1.PNG)
