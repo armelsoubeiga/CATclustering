@@ -22,3 +22,4 @@ The CATclustering package also takes into account longitudinal data and data by 
 
 The figure below shows methods, which outputs can be visualized using the factoextra package.
 ![](img/graph1.PNG)
+
