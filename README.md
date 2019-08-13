@@ -10,4 +10,4 @@ There are several packages that implement unsupervised claassification but this 
 
 The CATclustering package also takes into account longitudinal data and data by describing acts of care by data line.
 
-![longitudinal data](https://raw.github.com/armelsoubeiga/CATclustering/blob/master/img/table2.PNG)
+![longitudinal data](https://github.com/armelsoubeiga/CATclustering/blob/master/README.md)
