@@ -18,3 +18,7 @@ The CATclustering package also takes into account longitudinal data and data by 
 **acts of care by row**
 
 ![](img/table1.PNG)
+
+
+The figure below shows methods, which outputs can be visualized using the factoextra package.
+![](img/graph1.PNG)
